@@ -6,7 +6,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
-  namespace: bgd
+  namespace: rc-namespace
 spec:
   replicas: 1
   selector:
