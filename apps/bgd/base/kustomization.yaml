@@ -1,4 +1,4 @@
-namespace: bgd
+namespace: rc-namespace
 resources:
 - bgd-svc.yaml
 - bgd-deployment.yaml
